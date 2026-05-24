@@ -39,6 +39,7 @@ def eval_expr(expr):
         return float(expr)
     else:
         int(expr)
+        пупупупупуп
 
 
 exec(sys.stdin.read())
